@@ -2,4 +2,4 @@
 Responsive bootstrap template
 
 
-You can have [Live Demo](https://rituagrawal904.github.io/bootstrap-Tempate-2/)
+You can have [Live Demo](https://rituagrawal904.github.io/bootstrapTempate2/)
