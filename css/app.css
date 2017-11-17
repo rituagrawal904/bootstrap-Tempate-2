@@ -216,6 +216,12 @@ section .innerDv {
 .footer-sec {
     padding-bottom: 0;
 }
+.sevice .icon i {
+    transition: all .5s;
+}
+.sevice:hover .icon i {
+    transform: scale(1.2);
+}
 
 .copyright {
     padding: 10px;
