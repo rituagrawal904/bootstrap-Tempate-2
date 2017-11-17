@@ -45,6 +45,7 @@ section {
 
 .grid-box img {
     margin: auto;
+    transition: all .6s;
 }
 
 .grey_section {
@@ -54,12 +55,17 @@ section {
 .grid-box {
     background-color: rgba(159, 165, 165, 0.11);
     padding: 50px 10px;
+    transition: all .5s;
 }
-
+.grid-box:hover {
+    transform: scale(1.1);
+}
 .aboutSec p {
     color: #ccc
 }
-
+.grid-box:hover img {
+    transform: rotate(360deg);
+}
 .whtText {
     color: #fff;
 }
